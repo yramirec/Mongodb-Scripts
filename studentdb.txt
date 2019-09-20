@@ -6,7 +6,7 @@ db.students.insert([
 "gender": "F",
 "date": ISODate("2000-01-02"),
 "typeDocument": "Dni",
-"numberDocument": 98574212
+"numberDocument": 98574212,
 "idFamily": "Perez"
 },
 {
@@ -14,7 +14,7 @@ db.students.insert([
 "gender": "F",
 "date": ISODate("2001-02-03"),
 "typeDocument": "Dni",
-"numberDocument": 98574453
+"numberDocument": 98574453,
 "idFamily": "Gonzales"
 },
 {
@@ -22,7 +22,7 @@ db.students.insert([
 "gender": "M",
 "date": ISODate("2002-03-04"),
 "typeDocument": "Dni",
-"numberDocument": 98574333
+"numberDocument": 98574333,
 "idFamily": "Gonzales"
 },
 {
@@ -30,7 +30,7 @@ db.students.insert([
 "gender": "M",
 "date": ISODate("2003-04-05"),
 "typeDocument": "Dni",
-"numberDocument": 98574323
+"numberDocument": 98574323,
 "idFamily": "Gonzales"
 },
 {
@@ -38,7 +38,7 @@ db.students.insert([
 "gender": "M",
 "date": ISODate("2004-03-06"),
 "typeDocument": "Dni",
-"numberDocument": 98574000
+"numberDocument": 98574000,
 "idFamily": "Perez"
 },
 {
@@ -46,7 +46,7 @@ db.students.insert([
 "gender": "M",
 "date": ISODate("2005-05-07"),
 "typeDocument": "Dni",
-"numberDocument": 98574858
+"numberDocument": 98574858,
 "idFamily": "Salazar"
 },
 {
@@ -54,7 +54,7 @@ db.students.insert([
 "gender": "F",
 "date": ISODate("2006-09-08"),
 "typeDocument": "Dni",
-"numberDocument": 98574111
+"numberDocument": 98574111,
 "idFamily": "Romero"
 }
 ,
@@ -63,7 +63,7 @@ db.students.insert([
 "gender": "F",
 "date": ISODate("2007-05-09"),
 "typeDocument": "Dni",
-"numberDocument": 58756959
+"numberDocument": 58756959,
 "idFamily": "Romero"
 },
 {
@@ -71,7 +71,7 @@ db.students.insert([
 "gender": "F",
 "date": ISODate("2008-04-10"),
 "typeDocument": "Dni",
-"numberDocument": 23025487
+"numberDocument": 23025487,
 "idFamily": "Romero"
 }
 ,
@@ -80,7 +80,7 @@ db.students.insert([
 "gender": "M",
 "date": ISODate("2009-09-11"),
 "typeDocument": "Dni",
-"numberDocument": 54878969
+"numberDocument": 54878969,
 "idFamily": "Salazar"
 },
 {
@@ -88,6 +88,6 @@ db.students.insert([
 "gender": "F",
 "date": ISODate("2010-04-12"),
 "typeDocument": "Dni",
-"numberDocument": 14632659
+"numberDocument": 14632659,
 "idFamily": "Salazar"
 }])

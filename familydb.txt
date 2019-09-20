@@ -6,8 +6,8 @@ db.students.insert([
 "gender": "F",
 "date": ISODate("2000-01-02"),
 "typeDocument": "Dni",
-"numberDocument": 98574212
-"idStudent":"1" 
+"numberDocument": 98574212,
+"idStudent":"1" ,
 "family": "Perez"
 },
 {
@@ -15,8 +15,8 @@ db.students.insert([
 "gender": "F",
 "date": ISODate("2001-02-03"),
 "typeDocument": "Dni",
-"numberDocument": 98574453
-"idStudent":"2" 
+"numberDocument": 98574453,
+"idStudent":"2" ,
 "family": "Gonzales"
 },
 {
@@ -24,8 +24,8 @@ db.students.insert([
 "gender": "M",
 "date": ISODate("2002-03-04"),
 "typeDocument": "Dni",
-"numberDocument": 98574333
-"idStudent":"3" 
+"numberDocument": 98574333,
+"idStudent":"3" ,
 "family": "Gonzales"
 },
 {
@@ -33,8 +33,8 @@ db.students.insert([
 "gender": "M",
 "date": ISODate("2003-04-05"),
 "typeDocument": "Dni",
-"numberDocument": 98574323
-"idStudent":"4" 
+"numberDocument": 98574323,
+"idStudent":"4" ,
 "family": "Gonzales"
 },
 {
@@ -42,8 +42,8 @@ db.students.insert([
 "gender": "M",
 "date": ISODate("2004-03-06"),
 "typeDocument": "Dni",
-"numberDocument": 98574000
-"idStudent":"5" 
+"numberDocument": 98574000,
+"idStudent":"5" ,
 "family": "Perez"
 },
 {
@@ -51,8 +51,8 @@ db.students.insert([
 "gender": "M",
 "date": ISODate("2005-05-07"),
 "typeDocument": "Dni",
-"numberDocument": 98574858
-"idStudent":"6" 
+"numberDocument": 98574858,
+"idStudent":"6" ,
 "family": "Salazar"
 },
 {
@@ -60,8 +60,8 @@ db.students.insert([
 "gender": "F",
 "date": ISODate("2006-09-08"),
 "typeDocument": "Dni",
-"numberDocument": 98574111
-"idStudent":"7" 
+"numberDocument": 98574111,
+"idStudent":"7" ,
 "family": "Romero"
 }
 ,
@@ -71,7 +71,7 @@ db.students.insert([
 "date": ISODate("2007-05-09"),
 "typeDocument": "Dni",
 "numberDocument": 58756959
-"idStudent":"8" 
+"idStudent":"8" ,
 "family": "Romero"
 },
 {
@@ -79,8 +79,8 @@ db.students.insert([
 "gender": "F",
 "date": ISODate("2008-04-10"),
 "typeDocument": "Dni",
-"numberDocument": 23025487
-"idStudent":"9" 
+"numberDocument": 23025487,
+"idStudent":"9" ,
 "family": "Romero"
 }
 ,
@@ -89,8 +89,8 @@ db.students.insert([
 "gender": "M",
 "date": ISODate("2009-09-11"),
 "typeDocument": "Dni",
-"numberDocument": 54878969
-"idStudent":"10" 
+"numberDocument": 54878969,
+"idStudent":"10" ,
 "family": "Salazar"
 },
 {
@@ -98,7 +98,7 @@ db.students.insert([
 "gender": "F",
 "date": ISODate("2010-04-12"),
 "typeDocument": "Dni",
-"numberDocument": 14632659
-"idStudent":"11" 
+"numberDocument": 14632659,
+"idStudent":"11" ,
 "family": "Salazar"
 }])
