@@ -1,6 +1,6 @@
-use studentdb
+use familydb
 
-db.students.insert([
+db.families.insert([
 {
 "fullName": "Omar",
 "gender": "F",
@@ -63,14 +63,13 @@ db.students.insert([
 "numberDocument": 98574111,
 "idStudent":"7" ,
 "family": "Romero"
-}
-,
+},
 {
 "fullName": "Marian",
 "gender": "F",
 "dateOfBirth": ISODate("2007-05-09"),
 "typeDocument": "Dni",
-"numberDocument": 58756959
+"numberDocument": 58756959,
 "idStudent":"8" ,
 "family": "Romero"
 },
@@ -82,8 +81,7 @@ db.students.insert([
 "numberDocument": 23025487,
 "idStudent":"9" ,
 "family": "Romero"
-}
-,
+},
 {
 "fullName": "Issac",
 "gender": "M",
@@ -101,4 +99,5 @@ db.students.insert([
 "numberDocument": 14632659,
 "idStudent":"11" ,
 "family": "Salazar"
-}])
+}
+])
