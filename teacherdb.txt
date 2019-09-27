@@ -1,0 +1,92 @@
+use teacherdb
+
+db.teachers.insert([
+{
+"name": "Omar",
+"gender": "F",
+"dateOfBirth": ISODate("2000-01-02"),
+"typeDocument": "Dni",
+"numberDocument": 98574212,
+"idFamily": "Perez"
+},
+{
+"name": "Maria",
+"gender": "F",
+"dateOfBirth": ISODate("2001-02-03"),
+"typeDocument": "Dni",
+"numberDocument": 98574453,
+"idFamily": "Gonzales"
+},
+{
+"name": "Pedro",
+"gender": "M",
+"dateOfBirth": ISODate("2002-03-04"),
+"typeDocument": "Dni",
+"numberDocument": 98574333,
+"idFamily": "Gonzales"
+},
+{
+"name": "Juan",
+"gender": "M",
+"dateOfBirth": ISODate("2003-04-05"),
+"typeDocument": "Dni",
+"numberDocument": 98574323,
+"idFamily": "Gonzales"
+},
+{
+"name": "Jose",
+"gender": "M",
+"dateOfBirth": ISODate("2004-03-06"),
+"typeDocument": "Dni",
+"numberDocument": 98574000,
+"idFamily": "Perez"
+},
+{
+"name": "Miguel",
+"gender": "M",
+"dateOfBirth": ISODate("2005-05-07"),
+"typeDocument": "Dni",
+"numberDocument": 98574858,
+"idFamily": "Salazar"
+},
+{
+"name": "Yui",
+"gender": "F",
+"dateOfBirth": ISODate("2006-09-08"),
+"typeDocument": "Dni",
+"numberDocument": 98574111,
+"idFamily": "Romero"
+},
+{
+"name": "Marian",
+"gender": "F",
+"dateOfBirth": ISODate("2007-05-09"),
+"typeDocument": "Dni",
+"numberDocument": 58756959,
+"idFamily": "Romero"
+},
+{
+"name": "Sole",
+"gender": "F",
+"dateOfBirth": ISODate("2008-04-10"),
+"typeDocument": "Dni",
+"numberDocument": 23025487,
+"idFamily": "Romero"
+},
+{
+"name": "Issac",
+"gender": "M",
+"dateOfBirth": ISODate("2009-09-11"),
+"typeDocument": "Dni",
+"numberDocument": 54878969,
+"idFamily": "Salazar"
+},
+{
+"name": "Dora",
+"gender": "F",
+"dateOfBirth": ISODate("2010-04-12"),
+"typeDocument": "Dni",
+"numberDocument": 14632659,
+"idFamily": "Salazar"
+}
+])
